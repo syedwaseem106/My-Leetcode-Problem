@@ -19,11 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0037-sudoku-solver) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0037-sudoku-solver) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,4 +68,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0037-sudoku-solver) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
