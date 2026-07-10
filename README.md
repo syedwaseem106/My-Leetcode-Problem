@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0042-trapping-rain-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
 | ------- |
@@ -79,4 +81,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0040-combination-sum-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
