@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0048-rotate-image) |
 ## Backtracking
 |  |
 | ------- |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
