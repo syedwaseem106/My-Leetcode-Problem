@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0066-plus-one) |
 ## Simulation
 |  |
 | ------- |
