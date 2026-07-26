@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0068-text-justification) |
+| [0088-merge-sorted-array](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0088-merge-sorted-array) |
 ## Matrix
 |  |
 | ------- |
