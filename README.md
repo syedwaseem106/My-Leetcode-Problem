@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -147,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0068-text-justification) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
