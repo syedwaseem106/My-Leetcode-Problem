@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0189-rotate-array) |
 ## Simulation
 |  |
 | ------- |
