@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0041-first-missing-positive) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0068-text-justification) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0189-rotate-array) |
