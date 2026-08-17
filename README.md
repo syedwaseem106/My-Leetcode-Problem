@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0125-valid-palindrome) |
 ## Trie
 |  |
@@ -216,5 +218,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
