@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0383-ransom-note) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0383-ransom-note) |
 ## Trie
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0383-ransom-note) |
 ## Counting Sort
 |  |
 | ------- |
