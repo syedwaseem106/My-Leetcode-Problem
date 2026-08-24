@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0290-word-pattern) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0202-happy-number) |
 ## Greedy
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0202-happy-number) |
 ## Simulation
 |  |
 | ------- |
@@ -236,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0209-minimum-size-subarray-sum) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
