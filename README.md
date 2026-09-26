@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0222-count-complete-tree-nodes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0226-invert-binary-tree) |
 ## DP on Trees
 |  |
@@ -382,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0173-binary-search-tree-iterator) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
