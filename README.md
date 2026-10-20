@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0077-combinations) |
 | [0212-word-search-ii](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0212-word-search-ii) |
 ## Dynamic Programming
@@ -505,4 +506,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0433-minimum-genetic-mutation) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
