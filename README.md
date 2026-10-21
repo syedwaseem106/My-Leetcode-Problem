@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0049-group-anagrams) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0040-combination-sum-ii) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0053-maximum-subarray) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0022-generate-parentheses) |
 ## Design
 |  |
 | ------- |
