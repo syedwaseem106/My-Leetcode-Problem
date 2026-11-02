@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0399-evaluate-division) |
 | [0427-construct-quad-tree](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0427-construct-quad-tree) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0502-ipo) |
 | [0918-maximum-sum-circular-subarray](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0918-maximum-sum-circular-subarray) |
 ## Hash Table
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0134-gas-station) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0502-ipo) |
 ## String
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0502-ipo) |
 ## Matrix
 |  |
 | ------- |
@@ -557,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0215-kth-largest-element-in-an-array) |
+| [0502-ipo](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0502-ipo) |
 ## Tournament Sort
 |  |
 | ------- |
