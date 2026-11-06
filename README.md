@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0427-construct-quad-tree](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0427-construct-quad-tree) |
 | [0918-maximum-sum-circular-subarray](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0918-maximum-sum-circular-subarray) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/syedwaseem106/My-Leetcode-Problem/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Lifting
 |  |
